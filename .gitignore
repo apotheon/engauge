@@ -12,5 +12,8 @@
 !/log/.keep
 /tmp
 
+capybara-*.html
+.rspec
+
 # Ignore local configs.
 /.ruby-version
