@@ -29,7 +29,7 @@
 
 6. Create a pull request using the template.
 
-    See PULL_REQUEST_TEMPLATE.MD
+    See PULL_REQUEST_TEMPLATE.MD for this project.
 
     Make sure the branch can merge cleanly with master.  You may need to merge
     the current state of master into your branch from your local checkout:
