@@ -31,3 +31,6 @@ like a poll with depth.
     $ bundle install
 
 
+## Contributing
+
+See the PROCESS.md document.
